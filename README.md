@@ -4,8 +4,8 @@
 ## Languages and Tools:
 <code> <img src="https://api.iconify.design/vscode-icons:file-type-vue.svg" alt="vuejs" width="40" height="40"/>    </code>
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="bootstrap" width="40" height="40"/></code>
-<code> <img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png"   width="40" height="40"/>
-   </code>
+<code> <img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png"   width="40" height="40"/>   </code>
+<code> <img src="https://iconos8.es/icon/hsPbhkOH4FMe/node-js" width="40" height="40"/>   </code>
 
 <!--
 **juanchos2018/juanchos2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
